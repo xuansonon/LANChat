@@ -1,4 +1,5 @@
 # LANChat
+Version: 0.901
 LANChat is a pure Java-made console-based chat application that allows users to chat with other users on the same local area network (LAN). The LANChat uses a UDP Multicast Socket to ensure that messages are private, but only for those who join the chat using the Chat Key (a Multicast IP address from a range 224.0.0.0 to 239.255.255.255). Users are also able to send private messages between users. This chat will also allow for encryption of messages which enables confidentially between the users - if users know thhe key they will be able to read the messages.<br /><br />
 
 
