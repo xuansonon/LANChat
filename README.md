@@ -27,3 +27,5 @@ OR
 - [ ] Implement the /join and /request commands
 - [ ] Implement the /whisper command
 - [ ] Encrypt the chat
+
+The idea of the confidentiality is to encrypt every single message (even the commands). This is so that a user doesn't accidently receive a command with an encrypted parameter.
