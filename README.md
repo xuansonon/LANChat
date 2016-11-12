@@ -21,7 +21,7 @@ Once details have been retrieved, the chat program will start and send a /join r
 OR
 /whisper peer-name message
 ```
-<br /><br />
+<br />
 **Still to do**
 - [X] ~~Add user details to chat~~
 - [ ] Initialise the chat with the Multicast IP and Port Number
